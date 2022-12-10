@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Krutel Katering'
+theme = "hugo-scroll"
+
+[params]
+    description = "I am a description, hear me roar"
+    title = "Me da title"
+
+    # Footer
+    copyright = "© Krutel Katering"
