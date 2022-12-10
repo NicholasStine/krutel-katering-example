@@ -4,8 +4,8 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[cornerstonebest@hotmail.com](mailto:cornerstonebest@hotmail.com?subject=Papa%20Eds%20Catering%20Inquiry)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[(602) 810-1020](tel:6028101020)
 
 Let us take the hastle out of your next event!

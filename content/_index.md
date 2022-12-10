@@ -1,5 +1,5 @@
 ---
-header_image: "images/cover-image.jpg"
-header_headline: Krutel Catering
+header_image: "images/landing-background-lo-contrast.jpg"
+header_headline: Papa Ed's Catering
 header_subheadline: Convenient, Affordable, Delicious
 ---
