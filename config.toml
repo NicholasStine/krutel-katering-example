@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://master.d32cbkqy3gbz0y.amplifyapp.com/'
 languageCode = 'en-us'
 title = 'Krutel Katering'
 theme = "hugo-scroll"
